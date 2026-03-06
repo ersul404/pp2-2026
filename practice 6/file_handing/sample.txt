@@ -1,0 +1,5 @@
+Hello, this is a sample file.
+Python file handling practice.
+We are learning read and write functions.
+This is another line.
+End of file.
