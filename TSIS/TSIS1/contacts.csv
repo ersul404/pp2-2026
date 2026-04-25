@@ -1,0 +1,6 @@
+first_name,email,birthday,group,phone,phone_type
+John,john@gmail.com,1990-05-15,Work,123456789,mobile
+Alice,alice@mail.ru,1985-11-20,Family,987654321,home
+Bob,bob@gmail.com,1995-03-10,Friend,555666777,work
+Sara,sara@yahoo.com,2000-07-01,Other,70001234567,mobile
+Sara,sara@yahoo.com,2000-07-01,Other,70009876543,home
